@@ -1,0 +1,331 @@
+@media (max-width: 414px) {
+
+
+
+    .devices-img svg {
+        max-width: 25px;
+    }
+
+    .right-app h2 {
+        font-size: 34px !important;
+    }
+
+    .right-app h3 {
+        font-size: 24px !important;
+        line-height: 38px;
+    }
+    .middle-login {
+        padding-top: 30px;
+        padding-bottom: 24px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .bottom-part {
+        flex-direction: column;
+        gap: 10px 0;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+    .devices-box {
+        width: 100%;
+    }
+    .btn-grp {
+        flex-direction: column;
+        gap: 15px 0;
+    }
+    .logo-1 {
+        max-width: 120px;
+        }
+        .logo-2 {
+        max-width: 86px;
+        }
+
+    .title-content h3 {
+        font-size: 28px;
+    }
+
+    .title-content h5 {
+        font-size: 18px;
+        margin-bottom: 4px;
+    }
+
+    .right-app h2 {
+        font-size: 38px;
+    }
+
+    .right-app h3 {
+        font-size: 24px ;
+        line-height: 38px;
+    }
+    .nav-tabs{
+        margin-top: 38px;
+    }
+    .reg-additional {
+        padding-bottom: 40px;
+    }
+    .middle-login {
+        padding-top: 30px;
+        padding-bottom: 24px;
+        max-width: 100%;
+    }
+    .right-app {
+        padding: 50px 0;
+    }
+    .middle-simu {
+        padding-top: 24px;
+        padding-bottom: 60px;
+    }
+    .middle-reg {
+        padding-top: 15px;
+    }
+    .reg-additional {
+        padding-bottom:40px;
+    }
+    .bottom-reg{
+        padding-bottom: 20px;
+    }
+    .bottom-simu{
+        padding-bottom: 15px;
+    }
+    .bottom-part{
+        padding-bottom: 15px;
+    }
+    .right-img {
+        left: -8% ;
+        }
+        .desktop-show{
+            display: none;
+        }
+        .mobile-show{
+            display: block;
+        }
+        .left-form {
+            margin-inline: 20px;
+        }
+        .title-content {
+            padding-inline: 6px;
+        }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .right-app {
+        padding: 60px 0;
+    }
+
+    .cspd2 {
+        padding: 0;
+    }
+
+    .right-app h2 {
+        font-size: 44px;
+    }
+
+    .right-app h3 {
+        font-size: 28px;
+    }
+    .simu-pera{
+        margin-bottom: 38px;
+    }
+    .trading-simu {
+        margin-top: 46px;
+    }
+    .reg-additional{
+        padding-bottom: 60px; 
+    }
+    .desktop-show{
+        display: none;
+    }
+    .mobile-show{
+        display: block;
+    }
+    .right-img {
+        left: -6% ;
+        }
+        .middle-login {
+            padding-top: 30px;
+            padding-bottom: 24px;
+        }
+        .middle-simu {
+            padding-top: 30px;
+            padding-bottom: 65px;
+        }
+        .middle-reg {
+            padding-top: 15px;
+        }
+        .reg-additional {
+            padding-bottom:50px;
+        }
+        .bottom-reg{
+            padding-bottom: 30px;
+        }
+        .bottom-simu{
+            padding-bottom: 15px;
+        }
+        .bottom-part{
+            padding-bottom: 20px;
+        }
+        .left-form {
+            margin-inline: 20px;
+        }
+        
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .right-app {
+        padding: 60px 0;
+    }
+    .simu-pera{
+        margin-bottom: 42px;
+    }
+    .trading-simu {
+        margin-top: 44px;
+        padding: 20px;
+       
+    }
+    .simu-btn{
+        max-width: 275px;
+    }
+    .right-img {
+        left: -4%;
+        }
+        .middle-login {
+            padding-top: 38px;
+            padding-bottom: 28px;
+        }
+        .middle-simu {
+            padding-top: 36px;
+            padding-bottom: 70px;
+        }
+        .middle-reg {
+            padding-top: 15px;
+        }
+        .reg-additional {
+            padding-bottom:50px;
+        }
+        .bottom-reg{
+            padding-bottom: 30px;
+        }
+        .bottom-simu{
+            padding-bottom: 15px;
+        }
+        .bottom-part{
+            padding-bottom: 20px;
+        }
+        .left-form {
+            margin-inline: 20px;
+        }
+
+ }
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+    .right-img {
+    left: -8%;
+    }
+
+    .devices-box p {
+        font-size: 14px;
+    }
+
+    .devices-img img {
+        max-width: 10px;
+    }
+    .logo-1 {
+        max-width: 120px;
+        }
+        .logo-2 {
+        max-width: 86px;
+        }
+        .middle-login {
+            padding-top: 38px;
+            padding-bottom: 28px;
+        }
+        .middle-simu {
+            padding-top: 70px;
+            padding-bottom: 155px;
+        }
+        .middle-reg {
+            padding-top: 15px;
+        }
+        .reg-additional {
+            padding-bottom: 36px;
+        }
+}
+@media (min-width: 1200px) and (max-width: 1366.98px) {
+    .middle-login {
+        padding-top: 41px;
+        padding-bottom: 24px;
+    }
+    .middle-simu {
+        padding-top: 25px;
+        padding-bottom: 179px;
+    }
+    .middle-reg {
+        padding-top: 16px;
+    }
+    .reg-additional {
+        padding-bottom: 40px;
+    }
+}
+@media (min-width: 1367px) and (max-width: 1439.98px) {
+    .middle-login {
+        padding-top: 41px;
+        padding-bottom: 24px;
+    }
+    .middle-simu {
+        padding-top: 25px;
+        padding-bottom: 179px;
+    }
+    .middle-reg {
+        padding-top: 16px;
+    }
+    .reg-additional {
+        padding-bottom: 45px;
+    }
+}
+@media (min-width: 1440px) and (max-width: 1699.98px) {
+    .middle-login {
+        padding-top: 46px;
+        padding-bottom: 26px;
+    }
+    .middle-simu {
+        padding-top: 65px;
+        padding-bottom: 150px;
+    }
+    .middle-reg {
+        padding-top: 16px;
+    }
+    .reg-additional {
+        padding-bottom: 40px;
+    }
+    .reg-pera{
+        padding-bottom: 16px;
+    }
+    .reg-form {
+        margin-top: 16px;
+    }
+    .title-content h5 {
+    font-size: 18px;
+    }
+    .title-content h3 {
+        font-size: 34px;
+        }
+}
+@media (min-width: 1700px) and (max-width: 1919.98px) {
+    .middle-login {
+        padding-top: 80px;
+        padding-bottom: 66px;
+    }
+    .middle-simu {
+        padding-top: 65px;
+        padding-bottom: 180px;
+    }
+    .middle-reg {
+        padding-top: 22px;
+    }
+    .reg-additional {
+        padding-bottom: 50px;
+    }
+    .reg-pera{
+        padding-bottom: 29px;
+    }
+}
